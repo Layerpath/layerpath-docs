@@ -81,7 +81,6 @@ Ready to dive deeper? Check out these resources:
 
 - [Creating and Editing Guides](./guides.md)
 - [Playlists and Content Organization](./playlists.md)
-- [Tutorial Basics](./tutorial-basics/create-a-document.md)
 - [Intro to LayerPath](./intro.md)
 
 ## Need Help?

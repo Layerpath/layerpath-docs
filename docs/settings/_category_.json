@@ -1,0 +1,8 @@
+{
+  "label": "Settings",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Configure workspace settings, team management, and integrations."
+  }
+}
