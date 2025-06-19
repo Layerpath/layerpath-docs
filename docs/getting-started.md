@@ -79,10 +79,10 @@ Publish your content and share it with your audience. Monitor engagement through
 
 Ready to dive deeper? Check out these resources:
 
-- [Creating Interactive Tours](./tours/creating-tours.md)
-- [Building Step-by-Step Guides](./guides/creating-guides.md)
-- [Editing and Enhancing Content](./editing/edit-options.md)
-- [Sharing Your Content](./sharing/sharing-options.md)
+- [Creating and Editing Guides](./guides.md)
+- [Playlists and Content Organization](./playlists.md)
+- [Tutorial Basics](./tutorial-basics/create-a-document.md)
+- [Intro to LayerPath](./intro.md)
 
 ## Need Help?
 
