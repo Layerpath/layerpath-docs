@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://layerpath.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "layerpath", // Usually your GitHub org/user name.
+  projectName: "layerpath-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -76,7 +76,7 @@ const config: Config = {
       title: "LayerPath Docs",
       logo: {
         alt: "LayerPath Logo",
-        src: "img/logo.svg",
+        src: "img/layerpath.png",
       },
       items: [
         {
@@ -85,10 +85,10 @@ const config: Config = {
           position: "left",
           label: "Documentation",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        // { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/layerpath/layerpath",
-          label: "GitHub",
+          href: "https://layerpath.com",
+          label: "Visit Website",
           position: "right",
         },
       ],
@@ -117,12 +117,8 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Help Center",
-              href: "https://docs.layerpath.com/",
-            },
-            {
-              label: "Discord",
-              href: "https://discord.gg/layerpath",
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/company/layerpath",
             },
             {
               label: "X",
@@ -139,7 +135,7 @@ const config: Config = {
             },
             {
               label: "Blog",
-              to: "/blog",
+              href: "https://www.layerpath.com/resources/blog",
             },
             {
               label: "GitHub",
@@ -148,7 +144,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} LayerPath, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LayerPath, Inc.`,
     },
     prism: {
       theme: prismThemes.github,
