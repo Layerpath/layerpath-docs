@@ -100,10 +100,6 @@ const config: Config = {
           title: "Documentation",
           items: [
             {
-              label: "Getting Started",
-              to: "/docs/getting-started",
-            },
-            {
               label: "Guides",
               to: "/docs/guides",
             },
