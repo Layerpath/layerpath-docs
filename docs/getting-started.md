@@ -79,8 +79,8 @@ Publish your content and share it with your audience. Monitor engagement through
 
 Ready to dive deeper? Check out these resources:
 
-- [Creating and Editing Guides](./guides.md)
-- [Playlists and Content Organization](./playlists.md)
+- [Creating and Editing Guides](./guides/guides.md)
+- [Playlists and Content Organization](./playlists/playlists.md)
 - [Intro to LayerPath](./intro.md)
 
 ## Need Help?
