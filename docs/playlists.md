@@ -1,4 +1,7 @@
-import React from 'react';
+---
+title: Playlists
+sidebar_position: 8
+---
 
 # Playlists
 

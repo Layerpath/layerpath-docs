@@ -1,6 +1,6 @@
 {
   "label": "Tours",
-  "position": 4,
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "Create guided tours and interactive walkthroughs."
