@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "LayerPath Documentation",
+  title: "Layerpath Documentation",
   tagline: "Create Interactive Product Demos, Guides, and Videos",
   favicon: "img/favicon.ico",
 
@@ -87,20 +87,25 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "LayerPath Docs",
+      title: "Layerpath Docs",
       logo: {
-        alt: "LayerPath Logo",
+        alt: "Layerpath Logo",
         src: "img/layerpath.png",
         href: "/docs/intro",
       },
       items: [
-        {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Documentation",
-        },
+        
         // { to: "/blog", label: "Blog", position: "left" },
+        {
+          href: "https://layerpath.com/pricing",
+          label: "Pricing",
+          position: "right",
+        },
+        {
+          href: "https://calendly.com/layerpath/30-mins",
+          label: "Book a Demo",
+          position: "right",
+        },
         {
           href: "https://layerpath.com",
           label: "Visit Website",
@@ -155,7 +160,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} LayerPath, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Layerpath, Inc.`,
     },
     prism: {
       theme: prismThemes.github,

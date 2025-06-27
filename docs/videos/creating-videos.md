@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Creating & Editing Videos
 
-LayerPath makes it easy to create, edit, and share professional-quality screen recording videos for product demos, tutorials, and more.
+Layerpath makes it easy to create, edit, and share professional-quality screen recording videos for product demos, tutorials, and more.
 
 ## How to Create a Video
 
@@ -38,4 +38,4 @@ LayerPath makes it easy to create, edit, and share professional-quality screen r
 
 ---
 
-Create stunning videos with LayerPath to educate, engage, and convert your audience!
+Create stunning videos with Layerpath to educate, engage, and convert your audience!

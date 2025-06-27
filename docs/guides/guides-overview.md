@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Guides Overview & Best Practices
 
-LayerPath Guides help you create step-by-step, visual instructions for your users. They are perfect for onboarding, training, troubleshooting, and feature adoption.
+Layerpath Guides help you create step-by-step, visual instructions for your users. They are perfect for onboarding, training, troubleshooting, and feature adoption.
 
 ## What is a Guide?
 

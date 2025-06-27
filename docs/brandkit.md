@@ -5,7 +5,7 @@ sidebar_position: 7
 
 # BrandKit
 
-LayerPath's BrandKit allows you to fully customize the look and feel of your demos, guides, and videos to match your company's brand identity. This ensures a consistent, professional appearance across all your content.
+Layerpath's BrandKit allows you to fully customize the look and feel of your demos, guides, and videos to match your company's brand identity. This ensures a consistent, professional appearance across all your content.
 
 ## What You Can Customize
 
@@ -17,7 +17,7 @@ LayerPath's BrandKit allows you to fully customize the look and feel of your dem
 
 ## How to Use BrandKit
 
-1. **Navigate to BrandKit**: In your LayerPath workspace, go to the BrandKit section under Settings.
+1. **Navigate to BrandKit**: In your Layerpath workspace, go to the BrandKit section under Settings.
 2. **Upload Your Logo**: Click 'Upload Logo' and select your image file (SVG or PNG recommended).
 3. **Set Brand Colors**: Use the color pickers to set your primary and secondary colors. Preview changes in real time.
 4. **Choose Fonts**: Select from available font families or upload a custom font if supported.
@@ -44,4 +44,4 @@ LayerPath's BrandKit allows you to fully customize the look and feel of your dem
 
 ---
 
-With BrandKit, every LayerPath experience reflects your unique brand!
+With BrandKit, every Layerpath experience reflects your unique brand!

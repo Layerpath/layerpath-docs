@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Editing a Tour
 
-Tours in LayerPath are guided, step-by-step experiences that walk users through your product or process. This guide covers how to edit and enhance your tours to create engaging, educational experiences.
+Tours in Layerpath are guided, step-by-step experiences that walk users through your product or process. This guide covers how to edit and enhance your tours to create engaging, educational experiences.
 
 ## Tour Editor Overview
 
-The LayerPath tour editor provides powerful tools to customize every aspect of your guided tour:
+The Layerpath tour editor provides powerful tools to customize every aspect of your guided tour:
 
 ### Main Editor Components
 

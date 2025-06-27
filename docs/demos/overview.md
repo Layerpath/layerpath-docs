@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Experience the Power of Interactive Demos
+# Overview
 
-Interactive demos are one of LayerPath's most powerful features, allowing you to create engaging, clickable product demonstrations that let your audience experience your product firsthand.
+Interactive demos are one of Layerpath's most powerful features, allowing you to create engaging, clickable product demonstrations that let your audience experience your product firsthand.
 
 ## What Are Interactive Demos?
 
@@ -60,7 +60,7 @@ Interactive guides that help users solve common problems independently.
 
 Ready to create your first interactive demo? Here's the process:
 
-1. **Record your workflow** using LayerPath's screen capture
+1. **Record your workflow** using Layerpath's screen capture
 2. **Add interactive hotspots** to make elements clickable
 3. **Enhance with AI** for automatic annotations and improvements
 4. **Customize branding** to match your company style
@@ -92,7 +92,6 @@ Ready to create your first interactive demo? Here's the process:
 ## What's Next?
 
 - Learn how to [Create a Demo](./create-a-demo) from scratch
-- Explore [Demo Recording](./recording-demos) best practices
-- Discover [Advanced Demo Features](./advanced-features) for power users
+- Discover [Capture Help Guide](./capture-help-guide) for power users
 
 Ready to start creating? Jump into our [Demo Creation Guide](./create-a-demo) and build your first interactive demo today!

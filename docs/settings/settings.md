@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Settings
 
-LayerPath's Settings section allows you to configure your workspace, manage your team, and connect integrations to enhance your workflow.
+Layerpath's Settings section allows you to configure your workspace, manage your team, and connect integrations to enhance your workflow.
 
 ## Workspace Settings
 
@@ -43,9 +43,9 @@ LayerPath's Settings section allows you to configure your workspace, manage your
 ## Troubleshooting & Support
 
 - **Help Center**: Access documentation and FAQs.
-- **Contact Support**: Reach out to the LayerPath support team for assistance.
+- **Contact Support**: Reach out to the Layerpath support team for assistance.
 - **Troubleshooting**: See the [Troubleshooting](./troubleshooting) page for common issues.
 
 ---
 
-Configure your workspace in Settings to get the most out of LayerPath!
+Configure your workspace in Settings to get the most out of Layerpath!

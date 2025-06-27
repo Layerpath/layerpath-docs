@@ -5,9 +5,9 @@ sidebar_position: 6
 
 # AI-Powered Features
 
-LayerPath leverages artificial intelligence to help you create more engaging, professional, and effective product demos, guides, and videos—faster than ever before.
+Layerpath leverages artificial intelligence to help you create more engaging, professional, and effective product demos, guides, and videos—faster than ever before.
 
-## What Can AI Do in LayerPath?
+## What Can AI Do in Layerpath?
 
 - **AI Voiceover**: Instantly generate natural-sounding voice narration for your videos and tours. Choose from multiple voices, accents, and languages.
 - **Text Enhancement**: Automatically improve your step descriptions, tooltips, and callouts for clarity and engagement.
@@ -17,7 +17,7 @@ LayerPath leverages artificial intelligence to help you create more engaging, pr
 
 ## How to Use AI Features
 
-1. **Open your project** (demo, guide, or video) in the LayerPath editor.
+1. **Open your project** (demo, guide, or video) in the Layerpath editor.
 2. Look for the **AI** button or "Enhance with AI" option in the toolbar.
 3. Select the feature you want to use (e.g., Voiceover, Text Enhancement).
 4. Review and edit the AI-generated content as needed.
@@ -38,4 +38,4 @@ LayerPath leverages artificial intelligence to help you create more engaging, pr
 
 ---
 
-LayerPath's AI features help you create better content, faster. Try them out in your next project!
+Layerpath's AI features help you create better content, faster. Try them out in your next project!

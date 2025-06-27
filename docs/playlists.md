@@ -5,9 +5,9 @@ sidebar_position: 8
 
 # Playlists
 
-LayerPath allows you to create various instructional content formats like interactive Tours, step-by-step Guides, and comprehensive Videos. Playlists offer a powerful way to organize and share these projects, making it easier for users to learn complex topics or follow specific workflows.
+Layerpath allows you to create various instructional content formats like interactive Tours, step-by-step Guides, and comprehensive Videos. Playlists offer a powerful way to organize and share these projects, making it easier for users to learn complex topics or follow specific workflows.
 
-You might already be familiar with the different project formats in LayerPath. Here's a brief overview:
+You might already be familiar with the different project formats in Layerpath. Here's a brief overview:
 
 - **Tours**: Interactive format where users navigate through slides or layers using clicks or keyboard arrows, with each step presented as captured images.
 - **Guides**: Step-by-step documentation format showcasing images and videos from the recording, with detailed explanations for each step.
@@ -32,11 +32,11 @@ You might already be familiar with the different project formats in LayerPath. H
 
 ## What are Playlists?
 
-Playlists are collections of LayerPath projects grouped together based on a common theme or learning objective. You can create playlists containing projects in different formats (Tours, Guides, Videos) to provide a well-rounded learning experience.
+Playlists are collections of Layerpath projects grouped together based on a common theme or learning objective. You can create playlists containing projects in different formats (Tours, Guides, Videos) to provide a well-rounded learning experience.
 
 ## Creating Playlists and Collections
 
-1. **Access Playlists**: Navigate to the "Playlists" section within LayerPath.
+1. **Access Playlists**: Navigate to the "Playlists" section within Layerpath.
 2. **Create a Playlist**: Click the "Create Playlist" button and provide a descriptive name for your playlist.
 3. **Add Collections**: Within the playlist, click "Add Collection" to create a sub-category for grouping related projects. Give each collection a clear and concise title.
 4. **Adding Projects to Collections**: Once you have collections, navigate to your existing projects or create new ones. When saving a project, select the relevant collection(s) within the playlist to add it to the appropriate group.
@@ -53,7 +53,7 @@ This type of playlist could include:
 
 ## Sharing Playlists
 
-Once you've created your playlist with relevant collections and projects, you can share it with specific users or teams within LayerPath. This provides them with a structured learning path to understand the sales pipeline management process effectively.
+Once you've created your playlist with relevant collections and projects, you can share it with specific users or teams within Layerpath. This provides them with a structured learning path to understand the sales pipeline management process effectively.
 
 ## Benefits of Playlists
 

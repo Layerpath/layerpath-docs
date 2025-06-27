@@ -5,7 +5,7 @@ sidebar_position: 9
 
 # Analytics & Lead Generation
 
-LayerPath provides powerful analytics and lead generation tools to help you measure the impact of your demos, guides, and videos, and to capture valuable user information.
+Layerpath provides powerful analytics and lead generation tools to help you measure the impact of your demos, guides, and videos, and to capture valuable user information.
 
 ## What You Can Track
 
@@ -18,7 +18,7 @@ LayerPath provides powerful analytics and lead generation tools to help you meas
 
 ## How to Use Analytics
 
-1. **Open your project** in the LayerPath dashboard.
+1. **Open your project** in the Layerpath dashboard.
 2. Go to the **Analytics** tab for detailed metrics.
 3. Filter data by date range, content type, or user segment.
 4. Export analytics data for further analysis (CSV, integrations).
@@ -42,4 +42,4 @@ LayerPath provides powerful analytics and lead generation tools to help you meas
 
 ---
 
-Use LayerPath analytics and lead generation to maximize the impact of your interactive content!
+Use Layerpath analytics and lead generation to maximize the impact of your interactive content!

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Create a Demo
 
-Creating an interactive demo with LayerPath is straightforward and powerful. This guide will walk you through the entire process from planning to publishing your first demo.
+Creating an interactive demo with Layerpath is straightforward and powerful. This guide will walk you through the entire process from planning to publishing your first demo.
 
 ## Before You Start
 
@@ -19,18 +19,18 @@ Before hitting record, take a few minutes to plan:
 
 ### What You'll Need
 
-- LayerPath account (free trial available)
+- Layerpath account (free trial available)
 - The application or website you want to demo
 - 10-15 minutes of uninterrupted time
-- Optional: LayerPath browser extension for enhanced recording
+- Optional: Layerpath browser extension for enhanced recording
 
 ## Step 1: Start Recording
 
 ### Choose Your Recording Method
 
 1. **From Dashboard**: Click "New Project" → "Interactive Demo"
-2. **Browser Extension**: Click the LayerPath icon in your browser toolbar
-3. **Desktop App**: Launch LayerPath and select "Record Demo"
+2. **Browser Extension**: Click the Layerpath icon in your browser toolbar
+3. **Desktop App**: Launch Layerpath and select "Record Demo"
 
 ### Select Recording Area
 
@@ -92,7 +92,7 @@ Choose what to capture:
 
 1. Complete your demonstration workflow
 2. Click the **"Stop Recording"** button
-3. LayerPath will process your recording (usually takes 30-60 seconds)
+3. Layerpath will process your recording (usually takes 30-60 seconds)
 
 ### Initial Review
 
@@ -129,7 +129,7 @@ Transform your recording into an interactive experience:
 
 ### AI-Powered Improvements
 
-LayerPath's AI can automatically:
+Layerpath's AI can automatically:
 
 - **Generate tooltips** and explanations
 - **Add voiceover narration** to guide users
@@ -185,7 +185,7 @@ LayerPath's AI can automatically:
 
 ### Capture Help Guide
 
-For complex workflows, LayerPath can automatically:
+For complex workflows, Layerpath can automatically:
 
 - **Generate step-by-step guides** from your demo
 - **Create downloadable PDFs** of the process
@@ -240,4 +240,4 @@ After creating your first demo:
 3. **Track performance** with built-in analytics
 4. **Iterate and improve** based on viewer behavior
 
-Ready to create more advanced content? Explore our guides on [Tours](../tours/editing-a-tour) and [Videos](../videos/video-overview) to expand your LayerPath skills!
+Ready to create more advanced content? Explore our guides on [Tours](../tours/editing-a-tour) and [Videos](../videos/video-overview) to expand your Layerpath skills!

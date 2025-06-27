@@ -2,9 +2,9 @@
 sidebar_position: 0
 ---
 
-# Welcome to LayerPath
+# Welcome to Layerpath
 
-LayerPath is a powerful platform for creating **interactive product demos**, **step-by-step guides**, and **engaging videos** that help you showcase your product and drive user engagement.
+Layerpath is a powerful platform for creating **interactive product demos**, **step-by-step guides**, and **engaging videos** that help you showcase your product and drive user engagement.
 
 ## What You Can Create
 
@@ -26,7 +26,7 @@ Organize your content into curated collections for structured learning experienc
 
 ## Getting Started
 
-Ready to create your first LayerPath project? Start with our [Quick Start Guide](./quick-start/get-started) to begin building amazing interactive content.
+Ready to create your first Layerpath project? Start with our [Quick Start Guide](./quick-start/get-started) to begin building amazing interactive content.
 
 ## Key Features
 
@@ -37,4 +37,4 @@ Ready to create your first LayerPath project? Start with our [Quick Start Guide]
 - **Lead Generation**: Capture leads and track user interactions
 - **Custom Domains**: Host your content on your own domain
 
-Explore the documentation to learn how to make the most of LayerPath's powerful features.
+Explore the documentation to learn how to make the most of Layerpath's powerful features.

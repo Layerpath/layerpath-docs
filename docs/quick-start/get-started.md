@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Get Started
 
-Welcome to LayerPath! This guide will help you get up and running with creating your first interactive demo, guide, or video.
+Welcome to Layerpath! This guide will help you get up and running with creating your first interactive demo, guide, or video.
 
 ## Account Setup
 
-### Sign Up for LayerPath
+### Sign Up for Layerpath
 
-1. Visit [LayerPath.com](https://layerpath.com)
+1. Visit [Layerpath.com](https://layerpath.com)
 2. Click **"Get Started"** or **"Sign Up"**
 3. Create your account using:
    - Email and password
@@ -33,10 +33,10 @@ Once logged in, you can create:
 
 ### 2. Install the Browser Extension (Optional)
 
-For the best recording experience, install the LayerPath browser extension:
+For the best recording experience, install the Layerpath browser extension:
 
 1. Go to your browser's extension store
-2. Search for "LayerPath"
+2. Search for "Layerpath"
 3. Install and enable the extension
 
 ### 3. Start Recording

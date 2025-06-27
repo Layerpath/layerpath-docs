@@ -4,18 +4,18 @@ sidebar_position: 2
 
 # Sign Up
 
-Getting started with LayerPath is quick and easy. Follow these steps to create your account and begin building amazing interactive content.
+Getting started with Layerpath is quick and easy. Follow these steps to create your account and begin building amazing interactive content.
 
 ## Creating Your Account
 
-### Step 1: Visit LayerPath
+### Step 1: Visit Layerpath
 
 1. Go to [layerpath.com](https://layerpath.com)
 2. Click the **"Get Started"** or **"Sign Up"** button
 
 ### Step 2: Choose Your Sign-Up Method
 
-You can create your LayerPath account using any of these methods:
+You can create your Layerpath account using any of these methods:
 
 #### Email Registration
 
@@ -28,7 +28,7 @@ You can create your LayerPath account using any of these methods:
 
 - Click **"Sign up with Google"**
 - Select your Google account
-- Authorize LayerPath to access your account information
+- Authorize Layerpath to access your account information
 
 #### Microsoft Account
 
@@ -40,7 +40,7 @@ You can create your LayerPath account using any of these methods:
 
 After registration:
 
-1. Check your email inbox for a verification message from LayerPath
+1. Check your email inbox for a verification message from Layerpath
 2. Click the verification link in the email
 3. Your account will be activated automatically
 
@@ -56,7 +56,7 @@ Once your account is verified:
 
 ### Workspace Creation
 
-LayerPath will automatically create your first workspace where you can:
+Layerpath will automatically create your first workspace where you can:
 
 - Create and organize your projects
 - Invite team members
@@ -67,7 +67,7 @@ LayerPath will automatically create your first workspace where you can:
 
 After completing your sign-up:
 
-1. **Take the product tour**: Learn about LayerPath's key features
+1. **Take the product tour**: Learn about Layerpath's key features
 2. **Create your first project**: Start with a demo, guide, or video
 3. **Explore templates**: Use pre-built templates to get started faster
 4. **Invite your team**: Add colleagues to collaborate on projects
