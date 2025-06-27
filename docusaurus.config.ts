@@ -69,6 +69,20 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/',
+            to: '/docs/intro',
+          },
+        ],
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
@@ -77,6 +91,7 @@ const config: Config = {
       logo: {
         alt: "LayerPath Logo",
         src: "img/layerpath.png",
+        href: "/docs/intro",
       },
       items: [
         {
